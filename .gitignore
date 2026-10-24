@@ -1,0 +1,12 @@
+# 构建产物（不要入库）
+target/
+*.class
+*.jar
+*.war
+
+# IDE 与系统
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
