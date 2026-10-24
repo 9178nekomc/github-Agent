@@ -10,3 +10,9 @@ target/
 .vscode/
 .DS_Store
 Thumbs.db
+
+# Maven shade 生成
+dependency-reduced-pom.xml
+
+# Agent 运行时生成的示例项目
+workspace/
